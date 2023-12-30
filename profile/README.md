@@ -1,12 +1,9 @@
-## Hi there 👋
+# Security-Patched
 
-<!--
+## What we do
 
-**Here are some ideas to get you started:**
+Apply security updates to packages that have known/reported issues and making them available to the community.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## What we don't do
+
+We **will** limit ourselves to just security updates/issues and as such we will not be creating features, fixing bugs etc etc. Our preference is that if the package is popular then a new group of maintainers will either take over the original repository or create a fork that will become the defacto replacement and the need for our `security-maintenance` package will no longer be necessary, and we can archive the repository and deprecate the package.
