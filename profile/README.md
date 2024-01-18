@@ -2,7 +2,7 @@
 
 ## What we do
 
-Apply security updates to packages that have known/reported issues are abandoned (we think) and then making them available to the community.
+Apply security updates to packages that have known/reported issues, are abandoned (we think) and, then making them available to the community.
 
 ## What we don't do
 
@@ -14,4 +14,4 @@ We have activated Github's dependabot to notify us of any security related updat
 
 ## Have a suggestion?
 
-If you know of a package that requires a bit of attention, let us know and we will see what we can do.
+If you know of a package that requires a bit of attention, let us know in the [discussions](https://github.com/orgs/security-patched/discussions) and we will see what we can do.
